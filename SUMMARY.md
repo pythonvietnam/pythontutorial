@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Giới thiệu](README.md)
 * [0. The Python Tutorial](first-chapter.md)
 * [1. Whetting Your Appetite](1.-whetting-your-appetite.md)
 * [2. Using the Python Interpreter](2.-using-the-python-interpreter.md)
