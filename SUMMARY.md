@@ -11,4 +11,6 @@
 * [7. Input and Output](7.-input-and-output.md)
 * [8. Errors and Exceptions](8.-errors-and-exceptions.md)
 * [9. Classes](9.-classes.md)
+* [10. Brief Tour of the Standard Library](10.-brief-tour-of-the-standard-library.md)
+* [11. Brief Tour of the Standard Library — Part II](11.-brief-tour-of-the-standard-library-part-ii.md)
 
