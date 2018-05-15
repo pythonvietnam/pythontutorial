@@ -15,4 +15,5 @@
 * [11. Brief Tour of the Standard Library — Part II](11.-brief-tour-of-the-standard-library-part-ii.md)
 * [12. Virtual Environments and Packages](12.-virtual-environments-and-packages.md)
 * [13. What Now?](13.-what-now.md)
+* [15. Floating Point Arithmetic: Issues and Limitations](15.-floating-point-arithmetic-issues-and-limitations.md)
 
