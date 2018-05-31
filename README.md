@@ -6,6 +6,9 @@ Ngôn ngữ lập trình Python ngày càng được phổ biến và ứng dụ
 
 Trong quá trình sưu tâm, biên dịch chắc chắn không thể tránh khỏi các thiếu sót, rất mong được sự đóng góp hơn nữa của các đồng nghiệp, anh em bạn bè để hoàn thiện hơn nữa.
 
+Các nguồn tài liệu:
+* https://docs.python.org/3/tutorial/index.html
+
 Mọi ý kiến đóng góp xin gửi về:
 
 Nguyễn Ngọc Khánh
